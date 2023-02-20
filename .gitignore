@@ -1,0 +1,7 @@
+.replit
+package-lock.json
+package.json
+replit.nix
+/node_modules
+babel.config.json
+main.sh
