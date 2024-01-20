@@ -5,7 +5,7 @@ Easy deets meaning easy details.
 
 A single page PWA (progressive web app) that generates a QR code dynamically for easy access to your website, portfolio, details, etc.
 
-I created this using replit for free hosting. Working link to webapp is here: [Easy Deets](https://easy-deets.nijonin.repl.co/)
+I created this using replit for free hosting. Working link to webapp is here: [Easy Deets](https://easy-deets.nijonin.com/)
 
 ## Why?
 Isn't this just the same as other QR generators? Why make another?
